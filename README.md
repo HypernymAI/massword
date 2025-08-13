@@ -1,5 +1,9 @@
 <h1 align="center"> Llama Prompt Ops </h1>
 
+> **Meta Llama Startup Program Exclusive First Look**: This is [Hypernym's](https://hypernym.ai) Jupiter-inspired model stabilization toolchain.
+> 
+> Measured in prior experiments, we import and force "yellies" on when `ANTI_COMPRESSION_YELLIES=true` in the .env file.
+
 ## What is llama-prompt-ops?
 <p align="center">
   <a href="https://pypi.org/project/llama-prompt-ops/"><img src="https://img.shields.io/pypi/v/llama-prompt-ops.svg" /></a>
