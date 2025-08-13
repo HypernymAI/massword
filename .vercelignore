@@ -1,0 +1,42 @@
+# Databases
+*.db
+
+# Python files
+*.py
+*.pyc
+__pycache__/
+
+# Test results and directories
+temperature_sweep_results/
+__production_steps/
+demolish_llama_prompt_ops/
+dspy_source/
+
+# JSON data files
+*.json
+!vercel.json
+
+# Shell scripts
+*.sh
+
+# Config files
+*.yaml
+*.yml
+
+# Source code
+src/
+use-cases/
+
+# Git files
+.git/
+.gitignore
+
+# Other files
+*.txt
+*.md
+!README.md
+
+# Keep only the HTML files we need
+!index.html
+!beautiful_results_light.html
+!temperature_sweep_sunset.html
